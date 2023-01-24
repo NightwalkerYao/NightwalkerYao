@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NightwalkerYao
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? You haven't. I will reach you.
+- 👋 Hi, I’m @nightwalkeryao
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning new javascript/typescript things
+- 💞️ I’m looking to collaborate on dApps
+- 📫 How to reach me? Pull request on this repo!
 
 <!---
 NightwalkerYao/NightwalkerYao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
